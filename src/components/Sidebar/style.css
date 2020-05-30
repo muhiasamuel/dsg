@@ -1,0 +1,60 @@
+.sidebarContainer{
+    width: 28%;
+}
+.cardHeader{
+    text-transform: capitalize;
+    font-size: 19px;
+    text-align: center;
+    padding: 7px 0;
+    box-sizing: border-box;
+    letter-spacing: 1.5px;
+    color: rgba(0,0,0,0.5);
+}
+.sidebarImage{
+    max-width: 100%;
+    
+    box-sizing: border-box;
+
+}
+.sidebarImage img{
+    max-width: 100%;
+    max-height: 100%;
+    margin: 20px 0;
+
+}
+.myProfile{
+    letter-spacing: 0.7px;
+    font-size: medium;
+    font-weight: 400;
+}
+.myProfile h3{
+    padding: 10px 0;
+    text-align: center;
+    border-bottom: 5px solid limegreen;
+}
+.recentPosts{
+    padding: 15px 0;
+}
+.recentPost{
+    margin-bottom: 10px;
+   border-bottom: 1px solid rgba(0,0,0,0.1); 
+}
+.recentPost{
+    color: rgba(0,0,0,0.7);
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+.fbicon{
+    color: rgb(50, 79, 241);
+    padding: 5px;
+    display: inline-block;
+    
+}
+.fbicon:hover{
+    color: rgb(23, 9, 150);
+    animation: ease-in;
+}
+.watsappicon{
+    color: green;
+    padding: 5px;
+}

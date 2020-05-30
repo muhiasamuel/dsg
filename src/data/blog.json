@@ -1,0 +1,59 @@
+ 
+    [
+        {
+            "id": 1,
+            "blogCategory":"Featured",
+            "blogTitle":"This got to be the fav house ",
+            "postedOn":"July 23rd, 2020",
+            "Author":"Muhi Samuel",
+            "blogImage":"Nature-viev.jpg",
+            "blogText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.EIUSMOD TEMPOREt harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata  FACTS  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque"
+        },
+        {
+            "id": 2,
+            "blogCategory":"green",
+
+            "blogTitle":"The nature always shines",
+            "postedOn":"July 23rd, 2020",
+            "Author":"Muhi Samuel",
+            "blogImage":"buitiful-scenes.jpg",
+            "blogText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.EIUSMOD TEMPOREt harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata  FACTS  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque"  
+        },
+        {
+            "id": 3,
+            "blogCategory":"simple",
+            "blogTitle":"Always fit",
+            "postedOn":"sep 30th, 2020",
+            "Author":"Muhi Samuel",
+            "blogImage":"joseph-kellner.jpg",
+            "blogText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.EIUSMOD TEMPOREt harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata  FACTS  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque"
+        },
+        {
+            "id":4,
+            "blogCategory":"feels good",
+            "blogTitle":"Preseve the green. how beautiful this is",
+            "postedOn":"July 23rd, 2020",
+            "Author":"Muhi Samuel",
+            "blogImage":"Te-green.jpg",
+            "blogText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.EIUSMOD TEMPOREt harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata  FACTS  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque"
+        },
+        {
+            "id": 5,
+            "blogCategory":"classic",
+            "blogTitle":"feels great to be here",
+            "postedOn":"July 23rd, 2020",
+            "Author":"Muhi Samuel",
+            "blogImage":"wonder-nature.jpg",
+            "blogText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.EIUSMOD TEMPOREt harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata  FACTS  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque"
+        },
+        {"id": 6,
+            "blogCategory":"classic",
+            "blogTitle":"feels great to be here",
+            "postedOn":"July 23rd, 2020",
+            "Author":"Muhi Samuel",
+            "blogImage":"wonder-nature.jpg",
+            "blogText":"dddddddddd, hjsjsjSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis "
+        }
+
+    ]
+

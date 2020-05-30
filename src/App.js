@@ -1,63 +1,32 @@
+
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-export default function App() {
-  const [email, setEmail] = React.useState("");
-  const [password, setPassword] = React.useState("");
-  
-  const [acceptedTerms, setAcceptedTerms] = React.useState(false);
+import Home from './container/Home';
+import Header from './components/Header';
+import Hero from './components/Hero';
+import {BrowserRouter as Router,Route} from 'react-router-dom'
+import ContactUs from './container/ContactUs';
+import Post from './container/Post';
 
-  const handleSubmit = (event) => {
-    console.log(`
-      Email: ${email}
-      Password: ${password}
-    
-      Accepted Terms: ${acceptedTerms}
-    `);
 
-    event.preventDefault();
-  }
+function App(){
+    return(
+        
+          
+           
+                <Router>
+        <div className="App">
+            <Header/>
+           <Hero/>
+           <Route path="/Home"exact component={Home}/>
+           <Route path="/ContactUs"exact component={ContactUs}/>  
+           <Route path="/Post"exact component={Post}/> 
 
-  return (
-    <form onSubmit={handleSubmit}>
-      <h1>Create Account</h1>
-
-      <label>
-        Email:
-        <input
-          name="email"
-          type="email"
-          value={email}
-          onChange={e => setEmail(e.target.value)}
-          required />
-      </label>
-
-      <label>
-        Password:
-        <input
-          name="password"
-          type="password"
-          value={password}
-          onChange={e => setPassword(e.target.value)}
-          required />
-      </label>
-
-      
-       
-
-      <label>
-        <input
-          name="acceptedTerms"
-          type="checkbox"
-          onChange={e => setAcceptedTerms(e.target.value)}
-          required />
-        I accept the terms of service
-      </label>
-
-      <button>Submit</button>
-    </form>
-  );
+        </div>
+        </Router>
+           
+        
+    );
 }
 
-
-
+export default App;

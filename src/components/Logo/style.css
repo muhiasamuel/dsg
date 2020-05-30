@@ -1,0 +1,17 @@
+.logo{
+   text-align: center; 
+  
+}
+.logo span{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    text-decoration: none;
+    font-style: italic;
+    color: black;
+    padding: 20px;
+    background: rgba(0,0,0,0.1);
+    border: 6px solid rgba(0,0,0,0.1);
+    border-radius: 50%;
+    
+    
+}
